@@ -1,4 +1,4 @@
-# SystemLink-Dashboard-with-Jupyter-as-Data-Source
+# SystemLink Dashboard with Jupyter Notebook as Data Source
 
 This repo contains sample Jupyter Notebook code that can be used to receive parameter(s) from the SystemLink Dashboard and provide outputs to the SystemLink Dashboard.
 The working principle will be covered below.
